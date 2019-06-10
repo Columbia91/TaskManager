@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.ObjectModel;
 using System.Diagnostics;
-using System.Dynamic;
 using System.Linq;
 using System.Management;
-using System.Threading;
 using System.Windows;
 
 namespace TaskManager
